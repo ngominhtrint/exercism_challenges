@@ -5,5 +5,6 @@ import XCTest
 //HelloWorldTests.defaultTestSuite().run()
 //LeapTests.defaultTestSuite().run()
 //GigasecondTests.defaultTestSuite().run()
+//DifferenceOfSquaresTests.defaultTestSuite().run()
 
-DifferenceOfSquaresTests.defaultTestSuite().run()
+RnaTranscriptionTests.defaultTestSuite().run()
