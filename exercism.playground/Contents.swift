@@ -2,5 +2,6 @@
 
 import XCTest
 
-HelloWorldTests.defaultTestSuite().run()
+//HelloWorldTests.defaultTestSuite().run()
+LeapTests.defaultTestSuite().run()
 
