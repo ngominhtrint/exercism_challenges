@@ -7,5 +7,6 @@ import XCTest
 //GigasecondTests.defaultTestSuite().run()
 //DifferenceOfSquaresTests.defaultTestSuite().run()
 //RnaTranscriptionTests.defaultTestSuite().run()
+//SumOfMultiplesTests.defaultTestSuite().run()
 
-SumOfMultiplesTests.defaultTestSuite().run()
+SpaceAgeTests.defaultTestSuite().run()
