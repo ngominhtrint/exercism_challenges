@@ -8,5 +8,6 @@ import XCTest
 //DifferenceOfSquaresTests.defaultTestSuite().run()
 //RnaTranscriptionTests.defaultTestSuite().run()
 //SumOfMultiplesTests.defaultTestSuite().run()
+//SpaceAgeTests.defaultTestSuite().run()
 
-SpaceAgeTests.defaultTestSuite().run()
+BobTests.defaultTestSuite().run()
