@@ -9,5 +9,7 @@ import XCTest
 //RnaTranscriptionTests.defaultTestSuite().run()
 //SumOfMultiplesTests.defaultTestSuite().run()
 //SpaceAgeTests.defaultTestSuite().run()
+//BobTests.defaultTestSuite().run()
 
-BobTests.defaultTestSuite().run()
+GrainsTests.defaultTestSuite.run()
+
